@@ -1,0 +1,58 @@
+[
+   {
+      "objectGuid": "aJtumJHnOShcYGZXe88P0i",
+      "objectName": "EDC_Hermes",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "9tRjSpaCwjtge0qPAHTkcc"
+         ],
+         "repoInfo": {
+            "repoHandle": "0100HB0B000000000011"
+         }
+      }
+   },
+   {
+      "objectGuid": "9tRjSpaCwjtge0qPAHTkcc",
+      "objectName": "IICS_EMEA_ORG",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0100HB25000000000003"
+         }
+      }
+   }
+]

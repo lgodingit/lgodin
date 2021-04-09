@@ -1,0 +1,22 @@
+[
+   {
+      "objectGuid": "8kDryAe9bwKlgVjy52uDop",
+      "objectName": "lgodin",
+      "objectType": "Folder",
+      "path": "/Explore/Workspaces",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "Binary",
+            "description": "personal folder - Please consider this folder as a temporary area. It will be cleaned periodically",
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": null
+      }
+   }
+]

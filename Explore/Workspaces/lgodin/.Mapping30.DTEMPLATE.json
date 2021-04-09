@@ -1,0 +1,58 @@
+[
+   {
+      "objectGuid": "8pqjfP4heTxfalMepGhMqk",
+      "objectName": "Mapping30",
+      "objectType": "DTEMPLATE",
+      "path": "/Explore/Workspaces/lgodin",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "aJtumJHnOShcYGZXe88P0i"
+         ],
+         "repoInfo": {
+            "repoHandle": "0100HB170000000000B8"
+         }
+      }
+   },
+   {
+      "objectGuid": "aJtumJHnOShcYGZXe88P0i",
+      "objectName": "EDC_Hermes",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0100HB0B000000000011"
+         }
+      }
+   }
+]

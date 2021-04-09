@@ -1,0 +1,22 @@
+[
+   {
+      "objectGuid": "akmJ5kGbCLxezrEMDxX8Sy",
+      "objectName": "Workspaces",
+      "objectType": "Project",
+      "path": "/Explore",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "Binary",
+            "description": "",
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": null
+      }
+   }
+]
