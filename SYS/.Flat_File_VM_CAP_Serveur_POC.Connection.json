@@ -1,0 +1,58 @@
+[
+   {
+      "objectGuid": "aC4LVIxmREdgddfGNBx8eR",
+      "objectName": "Flat_File_VM_CAP_Serveur_POC",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "Acces Serveur",
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "7cxQxpVgxMEhtacWkmSt8D"
+         ],
+         "repoInfo": {
+            "repoHandle": "010UW10B000000000003"
+         }
+      }
+   },
+   {
+      "objectGuid": "7cxQxpVgxMEhtacWkmSt8D",
+      "objectName": "poc_ipaas",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "010UW125000000000002"
+         }
+      }
+   }
+]

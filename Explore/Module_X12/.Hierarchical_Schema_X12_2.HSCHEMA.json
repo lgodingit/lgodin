@@ -1,0 +1,29 @@
+[
+   {
+      "objectGuid": "8RyeobxGpJwhVkzBZugJ80",
+      "objectName": "Hierarchical_Schema_X12_2",
+      "objectType": "HSCHEMA",
+      "path": "/Explore/Module_X12",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "010UW136000000000004"
+         }
+      }
+   }
+]
